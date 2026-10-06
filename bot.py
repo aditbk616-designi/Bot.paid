@@ -45,7 +45,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-BOT_TOKEN = "8657953696:AAEVtjmDU0ZUdT1-1J5AgVSko2nSZ2hmWm8"
+BOT_TOKEN = "8986095323:AAEjDutbf6TIpp3mjzR6lgGRTy5fURW12fI"
 DEV_URL = "https://t.me/spy_fk"
 CHANNEL_URL = "https://t.me/LOKY_FF"
 
